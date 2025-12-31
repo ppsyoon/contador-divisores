@@ -28,3 +28,10 @@ O programa é dividido em três partes principais:
 - Exibe o resultado formatado na tela.  
 
 ---
+
+## 🧩 Exemplo de Execução
+
+```bash
+Digite um numero inteiro e positivo: 6
+
+O número 6 tem 4 divisores
